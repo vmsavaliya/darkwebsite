@@ -1522,6 +1522,13 @@ Our Work counter Section Start
 
 @media (max-width:35em){
 
+  .section-hero img {
+    width: 70%;
+    border-radius: 2%;
+    top: 13rem;
+    right: auto;
+  }
+
   .color-box{
     width: 22rem;
     height: 20.5rem;
@@ -1529,18 +1536,17 @@ Our Work counter Section Start
     transform: rotate(48deg);
     position: absolute;
     top: 74rem;
-    right: 12.9rem;
+    right: 16.9rem;
   }
 
 .color-box2{
-  width: 15rem;
-  height: 14.5rem;
+  width: 17rem;
+  height: 15.5rem;
   border: 5px solid rgb(255, 247, 0);
   transform: rotate(48deg);
   position: absolute;
   top: 77rem;
-  right: 16.9rem;
+  right: 19.5rem;
   }
-
 
 }
